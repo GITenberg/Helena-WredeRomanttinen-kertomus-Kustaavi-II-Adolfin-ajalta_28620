@@ -1,0 +1,39 @@
+_repo: Helena-WredeRomanttinen-kertomus-Kustaavi-II-Adolfin-ajalta_28620
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mellin, Robert
+    aliases:
+    - Mellin, R.
+    - Mellin, Gustaf Robert
+    birthdate: 1826
+    deathdate: 1880
+    gutenberg_agent_id: '8377'
+    url: http://www.gutenberg.org/2009/agents/8377
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mellin, G. H. (Gustaf Henrik)
+    aliases:
+    - Melin, G. H. (Gustaf Henrik)
+    - Mellin, Gustaf Henrik
+    birthdate: 1803
+    deathdate: 1876
+    gutenberg_agent_id: '9455'
+    url: http://www.gutenberg.org/2009/agents/9455
+description: ''
+gutenberg_issued: '2009-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28620'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Helena Wrede: Romanttinen kertomus Kustaavi II Adolfin ajalta'
+url: http://www.gutenberg.org/ebooks/28620
